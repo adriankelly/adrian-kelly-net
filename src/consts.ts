@@ -21,10 +21,10 @@ export const PAGES: Page[] = [
 		title: "Home",
 		href: "/",
 	},
-	{
-		title: "Blog",
-		href: "/blog",
-	},
+	// {
+	// 	title: "Blog",
+	// 	href: "/blog",
+	// },
 	{
 		title: "About",
 		href: "/about",
@@ -35,5 +35,5 @@ export const PAGES: Page[] = [
 export const DEFAULT_LOCALE = "en";
 export const LOCALES = {
 	en: "en", // the `defaultLocale` value must present in `locales` keys
-	it: "it",
+	// it: "it",
 };
