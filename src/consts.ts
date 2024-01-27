@@ -29,6 +29,10 @@ export const PAGES: Page[] = [
 		title: "About",
 		href: "/about",
 	},
+	{
+		title: "Hotjar Documentation",
+		href: "/hotjar-documentation",
+	},
 ];
 
 // i18n

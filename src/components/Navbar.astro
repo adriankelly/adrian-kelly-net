@@ -51,7 +51,7 @@ const url = Astro.url;
 			</div>
 		</button>
 	</div>
-	<nav
+	<!-- <nav
 		:class="{'flex': open, 'hidden': !open}"
 		x-show="open"
 		x-transition:enter="transition ease-out duration-200"
@@ -106,10 +106,10 @@ const url = Astro.url;
 				)
 			}
 		</div>
-		<ThemeSelector />
-		<!-- <LanguageSelector
+		<LanguageSelector
 			showFlag={false}
 			class="appearance-none cursor-pointer pl-3 pr-2 py-1.5 rounded-md dark:bg-stone-950 dark:text-white focus-visible:outline-none"
-		/> -->
-	</nav>
+		/>
+	</nav> -->
+	<ThemeSelector />
 </header>
