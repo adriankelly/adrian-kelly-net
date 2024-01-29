@@ -38,20 +38,20 @@ export const PAGES: Page[] = [
 		href: "/hotjar-videos",
 	},
 	{
-		title: "Hotjar Content Strategy and Planning",
-		href: "/hotjar-content-strategy-and-planning",
+		title: "Content Strategy and Planning",
+		href: "/content-strategy-and-planning",
 	},
 	{
-		title: "Hotjar Information Architecture ",
-		href: "/hotjar-information-architecture",
+		title: "Information Architecture ",
+		href: "/information-architecture",
 	},
 	{
-		title: "Hotjar Help Center Metrics and Analysis",
-		href: "/hotjar-help-center-metrics-and-analysis",
+		title: "Metrics and Analysis",
+		href: "/metrics-and-analysis",
 	},
 	{
-		title: "About",
-		href: "/about",
+		title: "About Me",
+		href: "/about-me",
 	},
 ];
 

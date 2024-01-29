@@ -12,8 +12,10 @@ const t = translations(Astro.url);
 <Layout>
 	<Container class="pt-16">
 		<!-- <p set:html={t.home_description} /> -->
+		
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mattis sapien massa, sed lacinia diam sollicitudin non. Sed volutpat, libero ac sollicitudin fringilla, lectus ante egestas nisl, nec imperdiet turpis nisl ac neque. Cras ipsum risus, suscipit vel elit non, tristique suscipit risus. Vestibulum rutrum risus a luctus fringilla.</p>
 		<p>Aenean vehicula odio at varius mollis. Phasellus lacinia, tellus ac finibus laoreet, mauris augue vehicula ex, quis rutrum dolor nunc egestas velit.</p>
+		<div class="pt-4">
 		<ul>
 			{
 				PAGES.map((item) =>
@@ -59,5 +61,6 @@ const t = translations(Astro.url);
 				)
 			}
 		</ul>
+		</div>
 	</Container>
 </Layout>
