@@ -29,10 +29,10 @@ export const PAGES: Page[] = [
 		title: "Hotjar Documentation",
 		href: "/hotjar-documentation",
 	},
-	{
-		title: "Hotjar Courses",
-		href: "/hotjar-courses",
-	},
+	// {
+	// 	title: "Hotjar Courses",
+	// 	href: "/hotjar-courses",
+	// },
 	{
 		title: "Hotjar Videos",
 		href: "/hotjar-videos",
