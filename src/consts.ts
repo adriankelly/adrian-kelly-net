@@ -2,7 +2,7 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Website metadata
-export const SITE_URL: string = "adrian-kelly-net.vercel.app";
+export const SITE_URL: string = "https://adrian-kelly-net.vercel.app/";
 export const SITE_TITLE: string = "Adrian Kelly";
 export const SITE_DESCRIPTION: string = "Adrian Kelly portfolio site";
 
